@@ -12,7 +12,7 @@ setup(
     author='Ravil Latypov',
     author_email='ravillatypov12@gmail.com',
     description='A simple contact web applications.',
-    packages=['django_contact_api'],
+    packages=['django_contacts_api'],
     include_package_data=True,
     zip_safe=False,
     platforms='any',
